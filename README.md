@@ -1,6 +1,6 @@
 # Spotify-clone
-Used "Html, css".
-HEAD
-by using only html, css
+
+Tech stack used : Html, Css
+
 
 
